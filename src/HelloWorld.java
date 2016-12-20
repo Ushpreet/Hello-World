@@ -14,7 +14,7 @@ public static void main(String[] args) {
                 System.out.println(numbers[i] + " is even number.");
               else
                 System.out.println(numbers[i] + " is odd number.");
-              System.out.println(numbers[i] + " is odd numberwsdgshdg.");
+              System.out.println(numbers[i] + " is an odd number.");
                        
         }
        
