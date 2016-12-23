@@ -4,12 +4,12 @@ public class Palindrome{
 	 public static void main(String args[]){  
 		 
 		  int r,sum=0,temp;    
-		  int n=645;//number to be checked for palindrome  
+		  int n=645;
 		  
 		  temp=n;    
 		  while(n>0){    
 			  
-		   r=n%10;  		//getting remainder  
+		   r=n%10;  		
 		   sum=(sum*10)+r;    
 		   n=n/10;    
 		  }    
