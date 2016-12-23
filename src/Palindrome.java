@@ -29,7 +29,7 @@ public class Palindrome{
         	if(numbers[i]%2 == 0)
                 System.out.println(numbers[i] + " is even number.");
               else
-                System.out.println(numbers[i] + " is odd number.");
+                System.out.println(numbers[i] + " is odd numbersfsdf.");
               
                        
         }
@@ -41,4 +41,4 @@ public class Palindrome{
 		  pal1.PalindromeExample();
 		  pal1.HelloWorld();
 	 }
-		} 
+} 
